@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DTTraceSDK-Plugin-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dttrace-sdk-android/demo/libs/DTTraceSDK-Plugin-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
